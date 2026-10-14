@@ -1,5 +1,5 @@
 name = "yonggekk"
-main = "_worker.js"
+main = "_worker明.js"
 compatibility_date = "2026-10-14"
 compatibility_flags = ["nodejs_compat"]
 no_bundle = true
